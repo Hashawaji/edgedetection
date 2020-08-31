@@ -1,3 +1,5 @@
 welcome to edge detection Senior year project.
 
 Panoptic Segmentation.
+1) Instance Segmentation
+2) semantic Segmentation
